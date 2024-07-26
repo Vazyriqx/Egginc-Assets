@@ -14,5 +14,5 @@ for any suggestions and ammendments please contact [vazyriqx](https://discordapp
 
 ## What has been skipped 
  - shaders
- - rpos
+ - RPOs (See [this repo](https://github.com/tylertms/rpotool) for getting RPOs and converting them into a more common format)
  - images which came with mail
